@@ -187,6 +187,7 @@ export const experience = [
 		companylogo: "/img/merchant.jpg",
 		date: "August 2021",
 		desc: "Created a physical blockchain payment system using embedded system and ethereum.",
+		github: "https://github.com/apurbadh/MerchantPlus",
 	},
 ];
 
