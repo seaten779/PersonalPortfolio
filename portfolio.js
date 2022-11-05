@@ -192,9 +192,9 @@ export const experience = [
 
 export const projects = [
 	{
-		name: "Portfolio",
-		desc: "My personal portfolio created using react and Next.js",
-		github: "https://github.com/seaten779/PersonalPortfolio",
+		name: "Our Dream Pashupati Clean",
+		desc: "President of Our Dream Pashupati Clean an awareness campaign for recontruction and cleanliness of historical artitecture",
+		github: "https://www.facebook.com/suyog.chaulagain/videos/966618303495331",
 	},
 	{
 		name: "Dark",
