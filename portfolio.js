@@ -204,7 +204,7 @@ export const projects = [
 	{
 		name: "Personal Voice Assistant",
 		desc: "A python app which can understand what you say and automate accordingly",
-		github: "https://github.com/1hanzla100/django-react-forum",
+		github: "https://github.com/apurbadh/PersonalVoiceAssistant",
 	},
 	{
 		name: "GoodLeaf",
