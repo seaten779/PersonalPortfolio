@@ -178,7 +178,7 @@ export const experience = [
 		role: "Developer",
 		company: "Delta OS",
 		companylogo: "/img/deltaos.png",
-		date: "Sept 2021 - June 2022",
+		date: "https://sourceforge.net/projects/deltaos/",
 		desc: "Delta OS is an Arch based distribution created for developers and people intrested in Arch Linux. It is created by the Delta OS team which I was a part of. I was responsible for the design of the operating system.",
 	},
 	{
