@@ -164,11 +164,11 @@ export const experience = [
 		desc: "Created a machine learning application which detects diseases in plants which contributes to a large scale project in the company involving agriculture. Providing farmers with easy access to an application which easily helps them identify diseases in plants.",
 	},
 	{
-		role: "Research Article",
-		company: "Relativity",
-		companylogo: "/img/einstien.jpg",
-		//date: "",
-		desc: "Wrote a research article about general relativity discovered by Einstien involving various applications and history about the force of gravitation.",
+		role: "Our Dream Pashupati Clean",
+		company: "Kins",
+		companylogo: "/img/pashupati.jpg",
+		date: "https://www.facebook.com/suyog.chaulagain/videos/966618303495331",
+		desc: "President of Our Dream Pashupati Clean an awareness campaign for recontruction and cleanliness of historical artitecture",
 		// descBullets: [
 		// 	"Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
 		// 	"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
@@ -185,16 +185,16 @@ export const experience = [
 		role: "Blockchain Developer",
 		company: "Merchant Plus",
 		companylogo: "/img/merchant.jpg",
-		date: "https://github.com/apurbadh/MerchantPlus",
+		date: "https://github.com//MerchantPlus",
 		desc: "Created a physical blockchain payment system using embedded system and ethereum.",
 	},
 ];
 
 export const projects = [
 	{
-		name: "Our Dream Pashupati Clean",
-		desc: "President of Our Dream Pashupati Clean an awareness campaign for recontruction and cleanliness of historical artitecture",
-		github: "https://www.facebook.com/suyog.chaulagain/videos/966618303495331",
+		name: "Research article",
+		desc: "Wrote a research article about general relativity discovered by Einstien involving various applications and history about the force of gravitation.",
+		github: "",
 	},
 	{
 		name: "Dark",
