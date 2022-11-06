@@ -199,17 +199,17 @@ export const projects = [
 	{
 		name: "Dark",
 		desc: "A backend framework created by my team which can be used to create APIs and websites",
-		github: "https://github.com/apurbadh/Dark",
+		github: "https://github.com/seaten779/Dark",
 	},
 	{
 		name: "Personal Voice Assistant",
 		desc: "A python app which can understand what you say and automate accordingly",
-		github: "https://github.com/apurbadh/PersonalVoiceAssistant",
+		github: "https://github.com/seaten779/PersonalVoiceAssistant",
 	},
 	{
 		name: "GoodLeaf",
 		desc: "A website created for farmers which can identifies diseases in plants using machine learning",
-		github: "https://github.com/apurbadh/Goodleaf",
+		github: "https://github.com/seaten779/Goodleaf",
 	},
 ];
 
