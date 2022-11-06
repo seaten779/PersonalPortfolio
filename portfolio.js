@@ -166,7 +166,7 @@ export const experience = [
 	{
 		role: "Research Article",
 		company: "Relativity",
-		companylogo: "/img/einstein.jpg",
+		companylogo: "/img/image.png",
 		//date: "",
 		desc: "Wrote a research article about general relativity discovered by Einstien involving various applications and history about the force of gravitation.",
 		// descBullets: [
