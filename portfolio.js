@@ -165,9 +165,9 @@ export const experience = [
 	},
 	{
 		role: "Our Dream Pashupati Clean",
-		company: "June 2019-February",
+		company: "Kins",
 		companylogo: "/img/pashupati.jpg",
-		// date: "Jan 2022 – Mar 2022",
+		date: "https://www.facebook.com/suyog.chaulagain/videos/966618303495331",
 		desc: "President of Our Dream Pashupati Clean an awareness campaign for recontruction and cleanliness of historical artitecture",
 		// descBullets: [
 		// 	"Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
@@ -194,7 +194,7 @@ export const projects = [
 	{
 		name: "Research article",
 		desc: "Wrote a research article about general relativity discovered by Einstien involving various applications and history about the force of gravitation.",
-		github: "https://www.facebook.com/suyog.chaulagain/videos/966618303495331",
+		github: "",
 	},
 	{
 		name: "Dark",
