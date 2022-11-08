@@ -150,7 +150,7 @@ export const educationInfo = [
 		desc: "Completed Highschool with Science as a major with 3.65 GPA",
 		grade: "Grade A+",
 		descBullets: [
-			"Rank at top 10% of the school",
+			"Rank at top 1% of the country",
 		],
 	},
 ];
