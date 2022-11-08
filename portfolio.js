@@ -161,7 +161,7 @@ export const experience = [
 		company: "Everest Walk Group ",
 		companylogo: "/img/everestwalk2.jpg",
 		date: "Jun 2022 – Current",
-		desc: "Created a machine learning application which detects diseases in plants which contributes to a large scale project in the company involving agriculture. Providing farmers with easy access to an application which easily helps them identify diseases in plants.",
+		desc: "Created a machine learning application which detects diseases in plants which contributes to a large scale project in the company involving agriculture. Providing farmers with easy access to an application which easily helps them identify diseases in plants.https://www.everestwalk.com/",
 	},
 	{
 		role: "Our Dream Pashupati Clean",
