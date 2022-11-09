@@ -160,7 +160,7 @@ export const experience = [
 		role: "Web Developer Intern",
 		company: "Everest Walk Group ",
 		companylogo: "/img/everestwalk2.jpg",
-		date: "Jun 2022 – Current",
+		date: "May 2022 – November 2022",
 		desc: "Created a machine learning application which detects diseases in plants which contributes to a large scale project in the company involving agriculture. Providing farmers with easy access to an application which easily helps them identify diseases in plants.",
 	},
 	{
