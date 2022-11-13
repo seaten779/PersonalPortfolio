@@ -167,7 +167,7 @@ export const experience = [
 		role: "Our Dream Pashupati Clean",
 		company: "Kins",
 		companylogo: "/img/pashupati.jpg",
-		date: "https://www.facebook.com/suyog.chaulagain/videos/966618303495331",
+		date: "www.facebook.com/suyog.chaulagain/videos/966618303495331",
 		desc: "President of Our Dream Pashupati Clean an awareness campaign for recontruction and cleanliness of historical artitecture",
 		// descBullets: [
 		// 	"Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
@@ -178,14 +178,14 @@ export const experience = [
 		role: "Developer",
 		company: "Delta OS",
 		companylogo: "/img/deltaos.png",
-		date: "https://sourceforge.net/projects/deltaos/",
+		date: "sourceforge.net/projects/deltaos/",
 		desc: "Delta OS is an Arch based distribution created for developers and people intrested in Arch Linux. It is created by the Delta OS team which I was a part of. I was responsible for the design of the operating system.",
 	},
 	{
 		role: "Blockchain Developer",
 		company: "Merchant Plus",
 		companylogo: "/img/merchant.jpg",
-		date: "https://github.com//MerchantPlus",
+		date: "github.com//MerchantPlus",
 		desc: "Created a physical blockchain payment system using embedded system and ethereum.",
 	},
 ];
