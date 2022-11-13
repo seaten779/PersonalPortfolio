@@ -167,7 +167,7 @@ export const experience = [
 		role: "Our Dream Pashupati Clean",
 		company: "Kins",
 		companylogo: "/img/pashupati.jpg",
-		date: "www.facebook.com/suyog.chaulagain/videos/966618303495331",
+		date: "https://cutt.ly/dMk4Bo6",
 		desc: "President of Our Dream Pashupati Clean an awareness campaign for recontruction and cleanliness of historical artitecture",
 		// descBullets: [
 		// 	"Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
