@@ -161,13 +161,14 @@ export const experience = [
 		company: "Everest Walk Group ",
 		companylogo: "/img/everestwalk2.jpg",
 		date: "May 2022 – November 2022",
+		link: "/everest-walk.pdf",
 		desc: "Created a machine learning application which detects diseases in plants which contributes to a large scale project in the company involving agriculture. Providing farmers with easy access to an application which easily helps them identify diseases in plants.",
 	},
 	{
 		role: "Our Dream Pashupati Clean",
 		company: "Kins",
 		companylogo: "/img/pashupati.jpg",
-		date: "https://cutt.ly/dMk4Bo6",
+		link: "https://cutt.ly/dMk4Bo6",
 		desc: "President of Our Dream Pashupati Clean an awareness campaign for recontruction and cleanliness of historical artitecture",
 		// descBullets: [
 		// 	"Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
@@ -178,14 +179,14 @@ export const experience = [
 		role: "Developer",
 		company: "Delta OS",
 		companylogo: "/img/deltaos.png",
-		date: "sourceforge.net/projects/deltaos/",
+		link: "https://www.sourceforge.net/projects/deltaos/",
 		desc: "Delta OS is an Arch based distribution created for developers and people intrested in Arch Linux. It is created by the Delta OS team which I was a part of. I was responsible for the design of the operating system.",
 	},
 	{
 		role: "Blockchain Developer",
 		company: "Merchant Plus",
 		companylogo: "/img/merchant.jpg",
-		date: "github.com//MerchantPlus",
+		link: "https://github.com/apurbadh/MerchantPlus",
 		desc: "Created a physical blockchain payment system using embedded system and ethereum.",
 	},
 ];

@@ -62,7 +62,7 @@ packages:
     dependencies:
       '@jridgewell/gen-mapping': 0.1.1
       '@jridgewell/trace-mapping': 0.3.17
-    dev: false
+    dev: true
 
   /@apollo/client/3.7.1_icdo4vrl6lcspfwvmbmur66vjy:
     resolution: {integrity: sha512-xu5M/l7p9gT9Fx7nF3AQivp0XukjB7TM7tOd5wifIpI8RskYveL4I+rpTijzWrnqCPZabkbzJKH7WEAKdctt9w==}

@@ -1,3 +1,8 @@
 body > div:first-child {
 	overflow-x: hidden;
 }
+a, a:hover{
+	text-decoration: none;
+	color: #525F7F;
+
+ }
