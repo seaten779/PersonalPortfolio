@@ -162,7 +162,7 @@ export const experience = [
 		companylogo: "/img/everestwalk2.jpg",
 		date: "May 2022 – November 2022",
 		link: "/everest-walk.pdf",
-		desc: "Created a machine learning application which detects diseases in plants which contributes to a large scale project in the company involving agriculture. Providing farmers with easy access to an application which easily helps them identify diseases in plants.",
+		desc: "Created a machine learning application that detects plant diseases, which contributes to a large-scale agriculture project in the company. Providing farmers with easy access to an application that assists them in identifying plant diseases.",
 	},
 	{
 		role: "Our Dream Pashupati Clean",
