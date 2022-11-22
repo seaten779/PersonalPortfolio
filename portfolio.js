@@ -186,7 +186,7 @@ export const experience = [
 		role: "Blockchain Developer",
 		company: "Merchant Plus",
 		companylogo: "/img/merchant.jpg",
-		link: "https://github.com/apurbadh/MerchantPlus",
+		link: "https://github.com/seaten779/MerchantPlus",
 		desc: "Created a physical blockchain payment system using embedded system and ethereum.",
 	},
 ];
