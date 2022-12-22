@@ -195,7 +195,7 @@ export const projects = [
 	{
 		name: "Research article",
 		desc: "Wrote a research article about general relativity discovered by Einstien involving various applications and history about the force of gravitation.",
-		github: "https://docs.google.com/document/d/1w38Dt6-oB_yqU8Hb7RTgPLmHKKzs7T1k/edit?usp=sharing&ouid=102406169787329454326&rtpof=true&sd=true",
+		github: "https://docs.google.com/document/d/1ODoagA7NGe4b26Gqj8Vs03DKQFy8GoMwFkcdJNziWK4/edit",
 	},
 	{
 		name: "Dark",
