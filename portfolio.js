@@ -17,7 +17,7 @@ export const contact = {};
 
 export const socialLinks = {
 	url: "https://suyogchaulagain.com.np/",
-	linkedin: "https://www.linkedin.com/in/seaten-sea-aa9a26251/",
+	linkedin: "https://www.linkedin.com/in/suyog-chaulagain-aa9a26251/",
 	github: "https://github.com/seaten779",
 	facebook: "https://www.facebook.com/suyog.chaulagain",
 };
