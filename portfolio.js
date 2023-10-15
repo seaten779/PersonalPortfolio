@@ -32,12 +32,12 @@ export const skillsSection = {
 			lottieAnimationFile: "/lottie/skills/fullstack.json", // Path of Lottie Animation JSON File
 			skills: [
 				emoji(
-					"⚡ Building responsive Single-Page-Apps (SPA) & PWA in React.js"
+					"➜ Building responsive Single-Page-Apps (SPA) & PWA in React.js"
 				),
-				emoji("⚡ BUilding responsive static websites using Next.js"
+				emoji("➜ BUilding responsive static websites using Next.js"
 				),
 				emoji(
-					"⚡ Building RESTful APIs in Django & Django REST Framework"
+					"➜ Building RESTful APIs in Django & Django REST Framework"
 				),
 			],
 			softwareSkills: [
@@ -90,16 +90,16 @@ export const skillsSection = {
 			lottieAnimationFile: "/lottie/skills/ethereum.json", // Path of Lottie Animation JSON File
 			skills: [
 				emoji(
-					"⚡ Experience in developing Smart Contract using Solidity & Ethereum"
+					"➜ Experience in developing Smart Contract using Solidity & Ethereum"
 				),
 				emoji(
-					"⚡ Experience of using Openzeppelin Smart Contract Standards & Chainlink Oracles"
+					"➜ Experience of using Openzeppelin Smart Contract Standards & Chainlink Oracles"
 				),
 				emoji(
-					"⚡ Developing NFT Smart Contracts using ERC-721 Token Standard"
+					"➜ Developing NFT Smart Contracts using ERC-721 Token Standard"
 				),
 				emoji(
-					"⚡ Building Dapps with React.js & Solidity using Web3.js, Moralis & IPFS"
+					"➜ Building Dapps with React.js & Solidity using Web3.js, Moralis & IPFS"
 				),
 			],
 			softwareSkills: [
