@@ -194,9 +194,9 @@ export const experience = [
 
 export const projects = [
 	{
-		name: "Research article",
-		desc: "Wrote a research article about general relativity discovered by Einstien involving various applications and history about the force of gravitation.",
-		github: "https://docs.google.com/document/d/1ODoagA7NGe4b26Gqj8Vs03DKQFy8GoMwFkcdJNziWK4/edit",
+		name: "Auto Driving Application",
+		desc: "Using NVIDIA's End-to-End Learning for Self-Driving Cars model, enhanced with dropout layers to optimize performance on smaller datasets. This framework offers accurate steering angle prediction and combines a YOLO-based segmentation model for accurate road object identification.",
+		github: "https://github.com/seaten779/Automated_Driving",
 	},
 	{
 		name: "Dark",
