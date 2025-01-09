@@ -150,9 +150,6 @@ export const educationInfo = [
 		duration: "September 2020 - June 2022",
 		desc: "Completed Highschool with Science as a major with 3.65 GPA",
 		grade: "Grade A+",
-		descBullets: [
-			"Rank at top 1% of the country",
-		],
 	},
 ];
 
