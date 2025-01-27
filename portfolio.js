@@ -6,7 +6,7 @@ export const greetings = {
 	description:
 		"The computer was born to solve problems that did not exist before. Hi, my name is Suyog Chaulagain. The subject of my passion are Web development, Machine Learning and Blockchain.",
 	resumeLink:
-		"https://docs.google.com/document/d/1X1_UfQf2tVe6bRFy0w7FLDtKRx8Hdt_HCcDXSIFQz1g/edit",
+		"/Resume-.pdf",
 };
 
 export const openSource = {
