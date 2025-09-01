@@ -6,7 +6,7 @@ export const greetings = {
 	description:
 		"The computer was born to solve problems that did not exist before. Hi, my name is Suyog Chaulagain. The subject of my passion are Web development, Machine Learning and Blockchain.",
 	resumeLink:
-		"/Resume-.pdf",
+		"/Resume11.pdf",
 };
 
 export const openSource = {
