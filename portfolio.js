@@ -145,11 +145,11 @@ export const SkillBars = [
 
 export const educationInfo = [
 	{
-		schoolName: "Uniglobe College",
-		subHeader: "Science",
-		duration: "September 2020 - June 2022",
-		desc: "Completed Highschool with Science as a major with 3.65 GPA",
-		grade: "Grade A+",
+		schoolName: "San Antonio College",
+		subHeader: "Mathematics",
+		duration: "Expected Graduation In December 2025",
+		desc: "Dean’s List Fall 2024 and Spring 2025",
+		grade: "3.87 GPA",
 	},
 ];
 
