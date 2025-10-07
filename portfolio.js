@@ -191,27 +191,25 @@ export const experience = [
 
 export const projects = [
 	{
+		name: "HR Audit (Winner, Capital One Finance Track - HackGT 12)",
+		desc: "Developed a multi-agent AI system using Mastra to automate fraud detection and workflow optimization. Implemented a CSM architecture to enhance customer service with a grounded AI support system outperforming human service. Integrated voice-based AI with Twilio and Cedar OS for real-time, personalized interactions using NLP and smart name recognition, and built an advanced RAG system for semantic search and intelligent document processing with OpenAI and Gemini.",
+		github: "https://devpost.com/software/the-hr-audit",
+	},
+	{
 		name: "Auto Driving Application",
-		desc: "Using NVIDIA's End-to-End Learning for Self-Driving Cars model, enhanced with dropout layers to optimize performance on smaller datasets. This framework offers accurate steering angle prediction and combines a YOLO-based segmentation model for accurate road object identification.",
+		desc: "Enhanced NVIDIA's End-to-End Learning for Self-Driving Cars model with dropout layers for optimized performance on smaller datasets. Combined with a YOLO-based segmentation model for accurate road object identification and steering angle prediction.",
 		github: "https://github.com/seaten779/Automated_Driving",
 	},
 	{
-		name: "Dark",
-		desc: "A backend framework created by my team which can be used to create APIs and websites",
-		github: "https://github.com/seaten779/Dark",
-	},
-	{
-		name: "Personal Voice Assistant",
-		desc: "A python app which can understand what you say and automate accordingly",
-		github: "https://github.com/seaten779/PersonalVoiceAssistant",
+		name: "Drest - Wearable AI Pipeline",
+		desc: "Developed a high-fidelity 3D human reconstruction and garment generation pipeline using 3D Gaussian Splatting and Stable Diffusion (SDXL). Processed video frames via COLMAP and ImageMagick for SfM and camera pose estimation, and implemented a novel vectorization method converting 3D splats into tensor embeddings for geometry-conditioned 2D-to-3D clothing synthesis with accurate texture and fit.",
 	},
 	{
 		name: "GoodLeaf",
-		desc: "A website created for farmers which can identifies diseases in plants using machine learning",
+		desc: "Created a website for farmers that identifies plant diseases using machine learning, enabling faster and more accurate crop health monitoring.",
 		github: "https://github.com/seaten779/Goodleaf",
 	},
 ];
-
 export const feedbacks = [
 ];
 
